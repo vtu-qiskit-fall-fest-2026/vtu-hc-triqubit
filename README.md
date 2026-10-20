@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **TriQubit** · Team ID `VTU-QFF-HC-0059` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#TriQubit)
+[⬆ Back to Top](#triqubit)
 
 </div>
